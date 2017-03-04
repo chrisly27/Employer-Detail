@@ -1,0 +1,15 @@
+F:\CET211 - Software Development\Assignment C#\Assignment\bin\Debug\Assignment.exe.config
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\bin\Debug\Assignment.exe.config
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\bin\Debug\Assignment.exe
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\bin\Debug\Assignment.pdb
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.AddNewRec.resources
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.DisplayRec.resources
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.Menu.resources
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.exe
+E:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.pdb
+F:\CET211 - Intermediate Software Development\Assignment C#\Assignment\bin\Debug\Assignment.exe.config
+F:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.exe
+F:\CET211 - Intermediate Software Development\Assignment C#\Assignment\obj\Debug\Assignment.pdb
